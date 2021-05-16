@@ -1,0 +1,10 @@
+[package]
+name = "relay"
+version = "0.1.0"
+authors = ["kromych"]
+edition = "2018"
+
+[workspace]
+
+[dependencies]
+tcprelay = { path = "tcprelay" }
